@@ -61,4 +61,3 @@ It's Alive on Port:8000!
 Enjoy using the Corridos API for retrieving your favorite Corrido artist's songs and lyrics!
 
 Feel free to customize and enhance this README to suit your specific project details and preferences. A well-written README helps users understand and use your API effectively.
-```
