@@ -45,7 +45,7 @@ GET /lyrics?artist=Los-Tigres-del-Norte
 
 ## Support and Contact
 
-For inquiries or support related to the Corridos API, please contact [your-email@example.com](mailto:your-email@example.com).
+For inquiries or support related to the Corridos API, please contact [juan@juanginez.com](mailto:juan@juanginez.com).
 
 ## Important Notes
 
