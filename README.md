@@ -1,6 +1,5 @@
 Certainly! Here's an example of a README.md file for your Corridos API:
 
-````markdown
 # Corridos API
 
 Welcome to the Corridos API, a tool that enables you to retrieve songs and lyrics from various Corrido artists. Corridos are a significant genre of narrative folk songs in Mexican culture, often expressing historical events, social issues, and everyday experiences. This API utilizes web scraping techniques to collect song and lyrics data from the "letras.mus.br" website.
@@ -29,8 +28,6 @@ Example:
 ```http
 GET /lyrics?artist=Los-Tigres-del-Norte
 ```
-````
-
 ## Technologies Used
 
 - Node.js
@@ -62,8 +59,6 @@ For inquiries or support related to the Corridos API, please contact [your-email
 It's Alive on Port:8000!
 
 Enjoy using the Corridos API for retrieving your favorite Corrido artist's songs and lyrics!
-
-```
 
 Feel free to customize and enhance this README to suit your specific project details and preferences. A well-written README helps users understand and use your API effectively.
 ```
